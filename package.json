@@ -1,0 +1,17 @@
+{
+  "name": "gnet.click",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "baseUrl": "https://gnet.click",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "shorten": "netlify-shortener"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
